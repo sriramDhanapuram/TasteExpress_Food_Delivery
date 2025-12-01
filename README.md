@@ -1,8 +1,8 @@
-\# TasteExpress – Online Food Delivery Web Application
+\# TasteExpressS – Online Food Delivery Web Application
 
 
 
-TasteExpress is a dynamic food ordering web application built using Java Servlets, JSP, JDBC, and DAO pattern.
+TasteExpressS is a dynamic food ordering web application built using Java Servlets, JSP, JDBC, and DAO pattern.
 
 
 
@@ -24,11 +24,11 @@ TasteExpress is a dynamic food ordering web application built using Java Servlet
 
 src/
 
-&nbsp; main/
+  main/
 
-&nbsp;   java/     (Servlets, DAO, Models)
+    java/     (Servlets, DAO, Models)
 
-&nbsp;   webapp/   (JSP, CSS, JS, Images)
+    webapp/   (JSP, CSS, JS, Images)
 
 
 
@@ -62,93 +62,91 @@ src/
 
 \## ▶️ How to Run
 
-1\. Import into Eclipse  
+1\. Import into Eclipse
 
-2\. Add Tomcat server  
+2\. Add Tomcat server
 
-3\. Setup MySQL database  
+3\. Setup MySQL database
 
-4\. Update DB credentials in DAO classes  
+4\. Update DB credentials in DAO classes
 
 5\. Run → Run on Server
 
 
 
-\## 📸 Screenshots     
+\## 📸 Screenshots
 
 
 
 \### Home Page
 
-!\[Home Page](screenshots/home.png.png)
+!\[Home Page](screenshots/home.png)
 
 
 
 \### Menu Page
 
-!\[Menu Page](screenshots/menu.png.png)
+!\[Menu Page](screenshots/menu.png)
 
 
 
 \### Cart Page
 
-!\[Cart Page](screenshots/cart.png.png)
+!\[Cart Page](screenshots/cart.png)
 
 
 
 \### Checkout Page
 
-!\[Checkout Page](screenshots/checkout.png.png)
+!\[Checkout Page](screenshots/checkout.png)
 
 
 
 \### Order Success Page
 
-!\[Order Success](screenshots/ordersuccess.png.png)
+!\[Order Success](screenshots/ordersuccess.png)
 
 
 
 \### User Login Home
 
-!\[User Login Home](screenshots/userloginhome.png.png)
+!\[User Login Home](screenshots/userloginhome.png)
 
 
 
 \### Signup Page
 
-!\[Signup Page](screenshots/signup.png.png)
+!\[Signup Page](screenshots/signup.png)
 
 
 
 \### Contact Page
 
-!\[Contact Page](screenshots/contact.png.png)
+!\[Contact Page](screenshots/contact.png)
 
 
 
 \### Order Details Page
 
-!\[Order Details](screenshots/orderdetails.png.png)
+!\[Order Details](screenshots/orderdetails.png)
 
 
 
 \### Orders (Admin/User)
 
-!\[Orders](screenshots/orders.png.png)
+!\[Orders](screenshots/orders.png)
 
 
 
 \### Footer Section
 
-!\[Footer](screenshots/footer.png.png)
+!\[Footer](screenshots/footer.png)
 
 
 
 \## 🧑‍💻 Author
 
-Sriram Dhanapuram  
+Sriram Dhanapuram
 
 GitHub: https://github.com/sriramDhanapuram
-
-
 
