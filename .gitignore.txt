@@ -1,4 +1,4 @@
-# IDE files
+# Eclipse project files
 .classpath
 .project
 .settings/
@@ -9,19 +9,19 @@ bin/
 out/
 classes/
 
-# Tomcat server junk (if exists)
+# Server files
 Servers/
 logs/
 temp/
 work/
 
-# Bytecode files
+# Java compiled files
 *.class
 
-# WAR/JAR files
+# Packaged files
 *.war
 *.jar
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
