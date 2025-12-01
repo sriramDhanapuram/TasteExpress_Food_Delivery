@@ -1,0 +1,27 @@
+# IDE files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+bin/
+out/
+classes/
+
+# Tomcat server junk (if exists)
+Servers/
+logs/
+temp/
+work/
+
+# Bytecode files
+*.class
+
+# WAR/JAR files
+*.war
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db

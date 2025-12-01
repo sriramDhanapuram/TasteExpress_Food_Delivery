@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 28px;
+}
+
+.orders-container {
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+}
+
+.order-card {
+    background: #fff;
+    padding: 18px;
+    margin-bottom: 18px;
+    border-radius: 10px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.1);
+}
+
+.order-card h3 {
+    margin: 0 0 10px 0;
+}
+
+.details-btn {
+    display: inline-block;
+    padding: 8px 14px;
+    background: #ff4b2b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.empty {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.view-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 14px;
+    background: #ff5722;
+    color: #fff;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.view-btn:hover {
+    background: #e64a19;
+}
+.back-btn {
+    text-decoration: none;
+    color: #444;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 6px 10px;
+    border-radius: 6px;
+    background: #ececec;
+    transition: 0.3s;
+}
+
+.back-btn:hover {
+    background: #dcdcdc;
+}
+
