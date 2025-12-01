@@ -1,0 +1,27 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+bin/
+out/
+classes/
+
+# Server files
+Servers/
+logs/
+temp/
+work/
+
+# Java compiled files
+*.class
+
+# Packaged files
+*.war
+*.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
